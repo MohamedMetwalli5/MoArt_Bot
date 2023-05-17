@@ -5,7 +5,7 @@
 It was created by me - Mohamed Metwalli - to make art accessible and enjoyable for all on Telegram.
 
 ## Description Picture
-![MoArt](https://github.com/MohamedMetwalli5/MoArt_Bot/assets/58489322/e6b04d8e-c255-47c0-af85-e2d5fb3cabb9)
+![MoArt](https://github.com/MohamedMetwalli5/MoArt_Bot/assets/58489322/d5fce1aa-f107-42b2-8e44-8a5c36a318e0)
 
 ## Hosting
 The project is located & hosted at : https://www.pythonanywhere.com/user/MohamedMetwalli/files/home/MohamedMetwalli/MoArt_Bot
