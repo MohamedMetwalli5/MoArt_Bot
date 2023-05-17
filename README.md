@@ -4,6 +4,12 @@
 ## Bot Info
 It was created by me - Mohamed Metwalli - to make art accessible and enjoyable for all on Telegram.
 
+## Available Commands
+`/start` : Start the conversation with the bot.
+`/random_art` : Get a random art piece.
+`/contact` : Contact MoArt Bot administrator for feedback.
+`/help` : Get help on how to use MoArt Bot or a list of available commands.
+
 ## Description Picture
 ![MoArt](https://github.com/MohamedMetwalli5/MoArt_Bot/assets/58489322/d5fce1aa-f107-42b2-8e44-8a5c36a318e0)
 
