@@ -11,7 +11,7 @@ It was created by me - Mohamed Metwalli - to make art accessible and enjoyable f
 * `/help` : Get help on how to use MoArt Bot or a list of available commands.
 
 ## Description Picture
-![MoArt](https://github.com/MohamedMetwalli5/MoArt_Bot/assets/58489322/d5fce1aa-f107-42b2-8e44-8a5c36a318e0)
+![MoArt](https://github.com/MohamedMetwalli5/MoArt_Bot/assets/58489322/cb7c2ece-d870-43c3-9f36-32b7d99b0e33)
 
 ## Hosting
 The project files are stored & hosted at : https://www.pythonanywhere.com/user/MohamedMetwalli/files/home/MohamedMetwalli/MoArt_Bot
